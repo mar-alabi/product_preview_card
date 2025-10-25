@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/product-preview-card-using-html-and-css-gav3A6zDyi)
 - Live Site URL: (https://mar-alabi.github.io/product_preview_card/)
 
 ## My process
