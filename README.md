@@ -27,9 +27,11 @@ Users should be able to:
 ### Screenshots
 
 **Desktop design**
+
 ![](./solution/desktop_design.png)
 
 **Mobile design**
+
 ![](./solution/mobile_design.png)
 
 ### Links
