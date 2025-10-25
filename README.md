@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD/challenge/65e71e1c17e502f0b6ce64b0/refactor)
+- Solution URL: ()
 - Live Site URL: (https://mar-alabi.github.io/product_preview_card/)
 
 ## My process
